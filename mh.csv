@@ -1,0 +1,17 @@
+project,environment,SUBJECT_ID,Instance,MH_ID,MH_TERM,MH_STDATE,MH_ENDAT,MH_ONGOING
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,2,DM,18DEC2001:00:00:00.000,18DEC2002:00:00:00.000,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,19,COUGH,07MAY2008:00:00:00.000,07JUN2008:00:00:00.000,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,3, KNEE SURGERY,29JUL2014:00:00:00.000,30JUL2018:00:00:00.000,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,4,COLON RESECTION,01NOV2017:00:00:00.000,07NOV2017:00:00:00.000,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,18,REMOVAL OF IMPLANT,19JUN2018:00:00:00.000,19JUN2018:00:00:00.000,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,8,CATARACT,01JUN2018:00:00:00.000,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,9,PAIN,03FEB2022:00:00:00.000,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,10,CONSTIPATION,29SEP2014:00:00:00.000,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,11,ARTHRITIS,15SEP2019:00:00:00.000,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,12,EYE PAIN,05JUN2020:00:00:00.000,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,14,SHORT OF BREATH,01NOV2016:00:00:00.000,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,16,OSTEOARTHRITIS,15DEC2001:00:00:00.000,18NOV2011:00:00:00.000,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,15,CONSTIPATION,07MAR2014:00:00:00.000,07MAR2018:00:00:00.000,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,17,STAMACH,16JUL2013:00:00:00.000,29JUL2016:00:00:00.000,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,5,SKIN RASH,07NOV2015:00:00:00.000,07OCT2017:00:00:00.000,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,1,HEADACH,19JUN2017:00:00:00.000,19JUL2018:00:00:00.000,N
