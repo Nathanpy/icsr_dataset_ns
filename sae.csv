@@ -1,0 +1,8 @@
+project,environment,SUBJECT_ID,SAE_ID,AE_ID,SAE_DESCRIPTION_01,AE_SER_DEATH,AE_SER_LIFE,AE_SER_DISAB,AE_SER_CONG,AE_SER_OTHMED,AE_SER_HOSPITAL,AE_HOS_STDATE,AE_HOS_ENDATE,AE_HOS_ONGOING,LAST_DOSE_B_DATE,LAST_DOSE_P_DATE,INTERUP_DATE_B,DECHALLENGE_RESULT_B,RESTART_DATE_B,RECHALLENGE_RESULT_B,INTERUP_DATE_P,DECHALLENGE_RESULT_P,RESTART_DATE_P,RECHALLENGE_RESULT_P,SAE_DESCRIPTION_01
+NS_icsr_auto,NS_Demo,100-001,SAE - 001,1,"13Jul2022, the Patient felt bad and went to an emergency for cough, dizziness/
+15Jul2022, he was addmitted to the hospital for life-threatenining condition. He was very sick with low glucose. /The relevant labs was not  ",0,1,0,0,0,1,15-Jul-22,26-Jul-22,0,14-Jul-22,08-Jul-22,15-Jul-22,Y,11-Aug-22,N,15-Jul-22,Y,11-Aug-22,N,
+NS_icsr_auto,NS_Demo,100-001,SAE - 005,5,"19AUG2022, the pt felt not good./
+21SEP2022, his family reported to the Investigator and the patient was admitted for severe conditions./
+07OCT2022, his condition was stable and discharged and the event resolved ",0,0,0,0,0,1,21-Sep-22,07-Oct-22,0,16-Aug-22,08-Sep-22,15-Sep-22,N,15-Oct-22,N,21-Sep-22,N,11-Oct-22,N,
+NS_icsr_auto,NS_Demo,100-001,SAE - 024,24,The patient had stroke and died at home on 18Mar2023. The was no autopsy performed,1,0,0,0,0,1,18-Mar-23,.,0,16-Feb-23,16-Feb-23,.,.,.,.,.,.,.,.,The family reported to the PI on the following date. The was no labs or exams results provided. 
+NS_icsr_auto,NS_Demo,100-001,SAE - 011,11,"On 20 Aug 2022, when visiting lab for next study drug dosing, the subject's WBC = 1.02, and down-trending was noted",0,0,0,0,1,0,.,.,0,.,20-Aug-22,.,.,.,.,25-Aug-22,Y,30-Aug-22,Y,"On 25-08-2022, WBC of 0.99, and on 30-08-2022, it is 0.99, on 03-09-2022, it was 1.15 which was recovered."

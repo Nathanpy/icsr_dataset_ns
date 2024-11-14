@@ -1,0 +1,39 @@
+project,environment,SUBJECT_ID,Instance,CM_ID,CM_TREATMENT,CM_INDICATION,CM_STDATE,CM_ONGOING,CM_ENDATE,CM_DOSE,CM_UNIT,CM_ROUTE,CM_DOSFRQ
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,1,CANDESARTAN,HYPERTENSION,01-Feb-00,N,19-Aug-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,2,ALLOPURINOL,SKIN RASH,01-Feb-00,Y,.,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,4,AZITHROMYCIN,INDICATION 1,01-Jan-19,N,21-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,5,BROTIZOLAM,INDICATION 2,01-Jan-19,N,21-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,6,ESZOPICLONE,INSOMNIA,24-Jun-22,N,10-Dec-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,7,METFORMIN,DIABETES,01-Jan-19,Y,.,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,8,ESOMEPRAZOLE,INDICATION 2,01-Jan-19,Y,.,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,9,PARENTERAL NUTRITION,SUPPLEMENTARY,01-Jan-19,N,21-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,10,CLOBETASOL,ERYTHEMA,15-Jul-22,N,19-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,11,TYLENOL,PAIN,15-Jul-22,N,19-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,13,PREDNISOLONE,INDICATION 2,20-Jul-22,N,21-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,14,PATASSIUM,MELAENA,21-Jul-22,N,04-Aug-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,15,PREDNISOLONE,ERYTHEMA,22-Jul-22,N,23-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,17,HALOPERIDOL,INDICATION 1,21-Jul-22,N,23-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,18,EPINEPHRINE,INDICATION 2,24-Jul-22,N,24-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,19,HYDROXYZINE,INSOMNIA,25-Jul-22,N,06-Aug-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,20,Q1,INDICATION 1,27-Jul-22,N,04-Aug-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,21,MOVIPREP,INDICATION 1,28-Jul-22,N,28-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,24,RED BLOOD CELLS,INDICATION 3,24-Jul-22,N,24-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,28,GLUCAGON,GI FIBERSCOPY,02-Aug-22,N,02-Aug-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,29,RED BLOOD CELLS,INDICATION 3,21-Jul-22,N,21-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,30,DEXAMETHASONE,INDICATION 4,18-Jul-22,N,18-Jul-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,31,CANDESARTAN ,HYPERTENSION,20-Aug-22,N,10-Sep-22,100,mg ,PO ,QD 
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,32,PARENTERAL NUTRITION,SUPPLEMENTARY ,20-Aug-22,Y,.,100,mg ,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,33,DEXAMETHASONE,PREMEDICATION,01-Jul-22,N,21-Oct-22,100,mg ,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,34,FAMOTIDINE,INDICATION 1,01-Jul-22,N,21-Dec-22,100,mg ,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,35,FLUNITRAZEPAM,INSOMNIA,20-Aug-22,N,07-Nov-22,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,36,BROTIZOLAM,INDICATION 1,20-Aug-22,N,07-Nov-22,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,37,CANDESARTAN,HYPERTENSION,11-Sep-22,N,04-Oct-22,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,38,SUPPLEMENT1,PREVENTION,24-Sep-22,Y,.,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,39,MAGNESIUM ,PREVENTION,24-Sep-22,Y,.,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,40,COVID-19  VACCINE,COVID-19,09-Oct-22,N,09-Oct-22,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,42,OLANZAPINE,HEADACH,22-Oct-22,N,24-Dec-22,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,43,METOCLOPRAMIDE,INDICATION 1,15-Jul-22,Y,.,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,44,ALPROSTADIL,SKIN RASH,19-Nov-22,N,24-Dec-22,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,45,CANDESARTAN ,HYPERTENSION,26-Feb-23,Y,.,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,46,MIROGABALIN ,HEADACH,18-Mar-23,Y,.,100,mL,PO ,PRN
+NS_icsr_auto,NS_Demo,100-001,Concomitant Medication,47,METFORMIN,INDICATION 1,15-Mar-23,Y,.,100,mL,PO ,PRN
