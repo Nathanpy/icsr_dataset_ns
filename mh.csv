@@ -1,0 +1,23 @@
+project,environment,SUBJECT_ID,Instance,MH_ID,MH_TERM,MH_STDATE,MH_ENDAT,MH_ONGOING
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,1,DM,2001-12-18,2002-12-18,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,19,COUGH,2008-05-07,2008-06-07,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,3, KNEE SURGERY,2014-07-29,2018-07-30,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,4,COLON RESECTION,2017-11-01,2017-11-07,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,18,REMOVAL OF IMPLANT,2018-06-19,2018-06-19,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,8,CATARACT,2018-06-01,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,9,PAIN,2022-02-03,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,10,CONSTIPATION,2014-09-29,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,11,ARTHRITIS,2019-09-15,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,12,EYE PAIN,2020-06-05,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,14,SHORT OF BREATH,2016-11-01,.,Y
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,16,OSTEOARTHRITIS,2001-12-15,2011-11-18,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,15,CONSTIPATION,2014-03-07,2018-03-07,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,5,SKIN RASH,2015-11-07,2017-10-07,N
+NS_icsr_auto,NS_Demo,100-001,Medical and Surgical History,2,HEADACH,2017-06-19,2018-07-19,N
+NS_icsr_auto,NS_Demo,100-002,Medical and Surgical History,1,DM,2011-11-08,.,Y
+NS_icsr_auto,NS_Demo,100-002,Medical and Surgical History,2,HEADACH,2021-12-18,.,Y
+NS_icsr_auto,NS_Demo,100-003,Medical and Surgical History,1,STAMACH,2020-07-21,2021-07-16,N
+NS_icsr_auto,NS_Demo,100-003,Medical and Surgical History,2,STAMACH,2021-07-21,.,Y
+NS_icsr_auto,NS_Demo,100-003,Medical and Surgical History,3,DM,2015-01-08,.,Y
+NS_icsr_auto,NS_Demo,100-004,Medical and Surgical History,1,CONFUSION,2020-05-16,.,Y
+NS_icsr_auto,NS_Demo,100-004,Medical and Surgical History,2,DM,2017-01-16,.,Y
